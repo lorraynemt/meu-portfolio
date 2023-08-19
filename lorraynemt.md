@@ -22,5 +22,3 @@ Me chamo Lorrayne Menezes Trasapadini, tenho 30 anos, atualmente estou cursando 
 [Linkedin](https://www.linkedin.com/lorraynemt)
 <br>
 [Email](mailto:lorrayne.traspadini@gmail.com)
-<br>
-[Telefone](tel:(00)00000-0000)
